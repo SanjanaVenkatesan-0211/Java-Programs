@@ -1,0 +1,13 @@
+WORDS IN ALPHABETICAL ORDER
+--------------------------
+easy : 1
+is : 2
+java : 3
+powerful : 1
+
+SORTED BY FREQUENCY
+------------------
+java : 3
+is : 2
+easy : 1
+powerful : 1
